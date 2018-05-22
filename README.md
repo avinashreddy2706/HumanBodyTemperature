@@ -7,7 +7,7 @@ In this project for Springboard, a dataset of human body temperatures is analyze
 
 File|Description
 ---------|-------------------------------------------------------------------------------------------------------------------
-code/sliderule_dsi_inferntial_statistics_exercise_1.ipynb|  Jupyter Notebook containing code
+[code/sliderule_dsi_inferntial_statistics_exercise_1.ipynb](https://github.com/krajeshj/HumanBodyTemperature/blob/master/code/sliderule_dsi_inferential_statistics_exercise_1.ipynb)|  Jupyter Notebook containing code
 data/human_body_temperature.csv| data for the notebook
  
 ### Directories
